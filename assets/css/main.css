@@ -2501,7 +2501,7 @@ input, select, textarea {
 		text-decoration: none;
 		white-space: nowrap;
 		 margin:auto;
-  display:block;
+
 	}
 
 		input[type="submit"]:hover,
